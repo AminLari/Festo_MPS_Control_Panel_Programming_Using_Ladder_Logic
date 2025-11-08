@@ -36,7 +36,7 @@ This project focuses on programming the station’s control panel entirely in **
 - Imports `controlPanel` and executes it cyclically.  
 - Handles input/output mapping and runtime execution.  
 
-### 🔄 Program Structure by Networks
+### Program Structure by Networks
 - **Network 1:** Detects changes in Auto/Manual key switch position.  
 - **Network 2:** Defines transition conditions between states (based on start, stop, and mode signals).  
 - **Network 3:** Manages logic for entering specific states.  
@@ -56,17 +56,16 @@ The control logic is designed according to the following **state machine**:
 
 Key transitions handle mode changes, start/stop commands, and reset actions as illustrated in the diagram.
 
-## Results
+## Documentation
+Official reference:  
+🔗 [Festo MPS Sorting Station Documentation](https://ip.festo-didactic.com/Infoportal/MPS/Overview/EN/index.html)
 
+## Results
 - Implemented a robust **state-based control system** using pure Ladder Logic.  
 - Achieved reliable operation of manual and automatic modes via control panel inputs.  
 - Validated proper state transitions and visual indicators based on real hardware tests.
 
-## Documentation
-Official reference:  
-🔗 [Festo MPS Sorting Station Documentation](https://ip.festo-didactic.com/Infoportal/MPS/SortingStation/EN/index.html)
-
-## 🎥 Demo
+## Demo
 <p align="center">
   <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
     <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" 
@@ -75,7 +74,7 @@ Official reference:
   </a>
 </p>
 
-> ▶️ *Click the image above to watch the demo video.*
+> *Click the image above to watch the demo video.*
 
 ## 📞 Contact
 If you have any questions, feedback, or suggestions regarding this project, feel free to reach out:
