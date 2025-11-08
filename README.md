@@ -67,11 +67,8 @@ Official reference:
 
 ## Demo
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" 
-         alt="Control Panel Ladder Logic Demo" 
-         width="800">
-  </a>
+    <video src="https://github.com/user-attachments/assets/66cb3d59-c536-487b-8956-e95ed776789a" width="400" controls></video>
+
 </p>
 
 > *Click the image above to watch the demo video.*
