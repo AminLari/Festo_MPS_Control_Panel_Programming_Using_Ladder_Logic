@@ -1,4 +1,4 @@
-# Festo MPS Control Panel Automation (Ladder Logic)
+# Festo MPS Station Control Panel Programming Using Ladder Logic
 
 ## Overview
 Development of the **Control Panel logic** for the *Festo MPS Sorting Station* using **Siemens TIA Portal** and **S7-1500 PLC**.  
