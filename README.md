@@ -65,7 +65,8 @@ Official reference:
 - Achieved reliable operation of manual and automatic modes via control panel inputs.  
 - Validated proper state transitions and visual indicators based on real hardware tests.
 
-## Demo
+**Demo Video**
+
 <p align="center">
     <video src="https://github.com/user-attachments/assets/66cb3d59-c536-487b-8956-e95ed776789a" width="400" controls></video>
 
